@@ -1,2 +1,4 @@
 # algorithm
-leetcode,newcoder,赛码
+力扣
+牛客
+赛码
